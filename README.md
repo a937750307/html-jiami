@@ -57,3 +57,7 @@ HTML代码加密工具是一款基于 React + Tailwind CSS 构建的在线工具
 - 支持包含 CSS、JavaScript 的完整 HTML 页面加密
 - 加密后的代码可直接在浏览器中打开运行
 - 建议使用现代浏览器（Chrome、Firefox、Edge、Safari）访问
+
+## 截图
+
+![截图](截图.png)
